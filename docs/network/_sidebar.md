@@ -1,5 +1,4 @@
 <!-- docs/_sidebar.md -->
 
-* [首页](/)
-* [操作系统](os/)
+* [网络编程](/network)
 * [网络编程](network/) 

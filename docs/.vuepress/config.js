@@ -1,4 +1,3 @@
-import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
 
 export default {

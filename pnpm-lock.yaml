@@ -382,9 +382,6 @@ dependencies:
   vite:
     specifier: ^4.1.4
     version: 4.1.4(sass@1.62.0)
-  vue:
-    specifier: ^3.2.47
-    version: 3.2.47
   vue-router:
     specifier: ^4.1.6
     version: 4.1.6(vue@3.2.47)
@@ -402,8 +399,14 @@ dependencies:
     version: 2.2.1
 
 devDependencies:
+  '@vuepress/client':
+    specifier: 2.0.0-beta.61
+    version: 2.0.0-beta.61
+  vue:
+    specifier: ^3.2.47
+    version: 3.2.47
   vuepress:
-    specifier: ^2.0.0-beta.61
+    specifier: 2.0.0-beta.61
     version: 2.0.0-beta.61(@vuepress/client@2.0.0-beta.61)(sass@1.62.0)(vue@3.2.47)
 
 packages:

@@ -6,8 +6,8 @@ export default {
       navbar: [
         // NavbarItem
         {
-          text: 'Foo',
-          link: '/foo/',
+          text: 'Zookeeper',
+          link: '/zookeeper/README.md',
         },
         // NavbarGroup
         {
